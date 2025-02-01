@@ -1,4 +1,5 @@
 # 🏏 T20-World-Cup-Cricket-Data-Analytics
+Live Interactive Dashboard Link : https://www.novypro.com/project/-t20-world-cup-cricket-data-analytics--1
 ![App Screenshot](https://github.com/sifanmomin/T20-World-Cup-Cricket-Data-Analytics/blob/main/power_hitter)
 
 
